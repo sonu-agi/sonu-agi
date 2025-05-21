@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonal Agnes</h1>
 <h3 align="center">A beginner level ML engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonu-agi" alt="sonu-agi" /></a> </p>
 
 - 🔭 I’m currently working on **Basketball analysis using AI**
 
