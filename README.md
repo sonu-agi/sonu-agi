@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi! Welcome to my Github landing page!<br>
-I'm Sonal, a first year Computer Science and Engineering student at Jeppiaar Institute of Technology. I went into this program for fun, but ended up loving coding more than I'd imagined.<br><br>
+Hi! Welcome to my GitHub landing page!<br>
+I'm Sonal, a second-year Computer Science and Engineering student at Jeppiaar Institute of Technology. I went into this program for fun, but ended up loving coding more than I'd imagined.<br><br>
 🔭 I’m currently working on **Basketball analysis using AI**<br>
 💬 Ask me about **My Institute and Project experiences**<br>
 📫 How to reach me **sonalagnes.s@gmail.com**<br>
