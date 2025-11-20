@@ -1,3 +1,9 @@
+```javascript
+const SonalAgnes = {
+  pronouns: "she" | "her" | "hers"
+}
+```
+
 # 💫 About Me:
 Hi! Welcome to my GitHub landing page!<br>
 I'm Sonal, a second-year Computer Science and Engineering student at Jeppiaar Institute of Technology. I went into this program for fun, but ended up loving coding more than I'd imagined.<br><br>
