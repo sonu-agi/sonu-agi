@@ -7,9 +7,31 @@ I'm Sonal, a second-year Computer Science and Engineering student at Jeppiaar In
 ⚡ Fun fact **I have an au(ro)ra (profile)**
 
 ## 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=agiban&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
-![](https://nirzak-streak-stats.vercel.app/?user=agiban&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agiban&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--
+![](https://github-readme-stats.vercel.app/api?username=agiban&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![sonu-agi's Stats](https://github-readme-stats.vercel.app/api?username=sonu-agi&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
+![sonu-agi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonu-agi&theme=material-palenight&hide_border=false)<br>
+![sonu-agi's Streak](https://nirzak-streak-stats.vercel.app/?user=sonu-agi&theme=material-palenight&hide_border=false)<br>
+![sonu-agi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-agi&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
+-->
+
+<!--<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sonu-agi&theme=material-palenight&show_icons=true&hide_border=false&count_private=true" alt="sonu-agi's Stats"/>
+    <br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=sonu-agi&theme=material-palenight&hide_border=false" alt="sonu-agi's Streak"/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-agi&theme=material-palenight&show_icons=true&hide_border=false&layout=compact" alt="sonu-agi's Top Languages"/>
+</div>-->
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sonu-agi&theme=material-palenight&show_icons=true&hide_border=false&count_private=true" alt="sonu-agi's Stats"/>
+    <br/>
+    
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sonu-agi&theme=material-palenight&layout=compact" alt="sonu-agi's Contributions and Streak"/>
+    <br/>
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-agi&theme=material-palenight&show_icons=true&hide_border=false&layout=compact" alt="sonu-agi's Top Languages"/>
+</div>
 
 <!--
 ## More Stats:
