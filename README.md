@@ -15,21 +15,11 @@ I'm Sonal, a second-year Computer Science and Engineering student at Jeppiaar In
 ![sonu-agi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-agi&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
 -->
 
-<!--<div align="center">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sonu-agi&theme=material-palenight&show_icons=true&hide_border=false&count_private=true" alt="sonu-agi's Stats"/>
     <br/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=sonu-agi&theme=material-palenight&hide_border=false" alt="sonu-agi's Streak"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-agi&theme=material-palenight&show_icons=true&hide_border=false&layout=compact" alt="sonu-agi's Top Languages"/>
-</div>-->
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sonu-agi&theme=material-palenight&show_icons=true&hide_border=false&count_private=true" alt="sonu-agi's Stats"/>
-    <br/>
-    
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sonu-agi&theme=material-palenight&layout=compact" alt="sonu-agi's Contributions and Streak"/>
-    <br/>
-    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-agi&theme=material-palenight&show_icons=true&hide_border=false&layout=compact" alt="sonu-agi's Top Languages"/>
 </div>
 
